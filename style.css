@@ -1,0 +1,22 @@
+body {
+ display: flex;
+ justify-content: center;
+ align-items: center;
+ background-size: cover;
+ background-repeat: no-repeat;
+}
+
+div {
+ margin: 30px;
+}
+
+button {
+ cursor: pointer;
+ width: 300px;
+ background-color: black;
+ color: white;
+ font-family: monospace;
+ font-size: 2em;
+ padding: 10px;
+ border-radius: 15px;
+}
